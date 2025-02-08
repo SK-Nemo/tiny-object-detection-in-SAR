@@ -14,8 +14,8 @@ This research evaluates the performance of FPG (Feature Pyramid Generators), NAS
 
 Two SAR datasets were used:
 
-- **HRSID Dataset:** Testing showed nearly identical performance across all configurations, with no improvement when using NAS-FPN or FPG.
-- **SSDD-OPEN Dataset:** Custom combinations of FPG with ResNet-50 and ResNet-101 variants outperformed TOOD, achieving higher mAP scores (0.6800 and 0.6704).
+- [**HRSID Dataset:**](https://github.com/chaozhong2010/HRSID) Testing showed nearly identical performance across all configurations, with no improvement when using NAS-FPN or FPG.
+- [**SSDD-OPEN Dataset:**](https://github.com/TianwenZhang0825/Official-SSDD?tab=readme-ov-file) Custom combinations of FPG with ResNet-50 and ResNet-101 variants outperformed TOOD, achieving higher mAP scores (0.6800 and 0.6704).
 
 ![methodolgy_wtout_transparent](https://github.com/user-attachments/assets/78ab535a-94fc-4c9c-881a-44288d110f3a)
 
@@ -33,11 +33,6 @@ Two SAR datasets were used:
 
 This methodology provides insights into the impact of different architectures on tiny object detection in SAR imagery, offering a path to improved model performance through customized configurations.
 
-## Training Notebook / Dataset
+## Training Notebook
 
 For detailed training and testing procedures, you can explore the [Training Notebook](https://github.com/SK-Nemo/tiny-object-detection-in-SAR/blob/main/Using%20Mmdetection-3x-On-SARScope.ipynb).
-
-For datasets, you can explore:
-
-- [SSDD-OPEN](https://github.com/TianwenZhang0825/Official-SSDD?tab=readme-ov-file)
-- [HRSID](https://github.com/chaozhong2010/HRSID)
