@@ -14,3 +14,5 @@ The goal of this repository is to provide an end-to-end solution for tiny object
 - **Model Architecture:** A choice of state-of-the-art object detection models tailored for SAR images.
 - **Evaluation Metrics:** Methods for evaluating the performance of the model, including precision, recall, F1 score, and mAP (mean Average Precision).
 - **Visualization:** Tools for visualizing detection results on SAR images.
+
+- ![Training Notebook](https://github.com/SK-Nemo/tiny-object-detection-in-SAR/blob/main/Using%20Mmdetection-3x-On-SARScope.ipynb)
