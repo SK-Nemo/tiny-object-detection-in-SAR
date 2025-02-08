@@ -6,6 +6,8 @@ This project aims to detect tiny objects in Synthetic Aperture Radar (SAR) image
 
 The goal of this repository is to provide an end-to-end solution for tiny object detection in SAR images. The project uses a deep learning-based approach, leveraging convolutional neural networks (CNNs) or transformer-based models, to identify and classify tiny objects in SAR imagery.
 
+![methodolgy_wtout_transparent](https://github.com/user-attachments/assets/78ab535a-94fc-4c9c-881a-44288d110f3a)
+
 ### Key features of this project include:
 
 - **Data Preprocessing:** Techniques for preparing and augmenting SAR images for deep learning models.
